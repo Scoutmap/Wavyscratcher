@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wavyscratcher
-- 👀 I’m interested in 
+- 👀 I’m interested in scratch coding.
 - 🌱 I’m currently learning python coding.
 - 💞️ I’m looking to collaborate on scratch.
 
